@@ -1,6 +1,6 @@
 .titre {
-  box-shadow: 10px 5px 5px grey;
-  margin-top: 25px;
+  box-shadow: 10px 5px 5px grey; /* -2px 4px 7px #808080a3 */
+  margin-top: 25px; /* padding-top */
   position: sticky;
   top: 0px;
 }
@@ -18,5 +18,5 @@
 }
 
 section {
-  margin: 2rem 0 2rem 0;
+  margin: 3rem 0 3rem 0;
 }
