@@ -1,5 +1,16 @@
 .titre {
-    box-shadow: 10px 5px 5px grey;
-    margin-top: 25px;
+  box-shadow: 10px 5px 5px grey;
+  margin-top: 25px;
+}
 
+.gitButton {
+  justify-self: flex-end;
+}
+
+.gridBox {
+  display: grid;
+}
+
+.column {
+  margin: 1rem;
 }
