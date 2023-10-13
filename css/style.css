@@ -26,3 +26,8 @@ body {
 section {
   margin: 2rem 0 2rem 0;
 }
+
+li {
+	list-style-image: url("../../images/bullet.png");
+
+}
