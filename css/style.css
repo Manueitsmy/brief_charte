@@ -73,3 +73,11 @@ ul {
   padding-top: 20px;
   text-align: justify;
 }
+
+.box-container:first-of-type {
+  margin-top: 0;
+}
+
+p:first-of-type {
+  margin-bottom: 0;
+}
