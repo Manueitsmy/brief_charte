@@ -16,6 +16,12 @@ body {
   justify-self: flex-end;
 }
 
+@media (max-width: 937px) {
+  .gitButton {
+    justify-self: center;
+  }
+}
+
 .gridBox {
   display: grid;
 }
