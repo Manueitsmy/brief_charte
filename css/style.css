@@ -50,10 +50,10 @@ li {
 	padding: 20px;
 }
 
-h4 {
-	padding-bottom: 20px;
-}
-
 .showTime {
   display: block;
+}
+
+ul {
+	padding-top: 20px;
 }
