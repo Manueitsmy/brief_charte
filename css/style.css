@@ -9,6 +9,7 @@
 
 body {
   background-color: whitesmoke;
+  font-family: "Roboto", sans-serif;
 }
 
 .gitButton {
@@ -46,13 +47,23 @@ li {
   margin-bottom: 25px;
   border-radius: 20px;
   box-shadow: 1px 5px 10px grey;
-  padding: 20px;
-}
-
-h4 {
-  padding-bottom: 20px;
 }
 
 .showTime {
   display: block;
+}
+
+summary {
+  cursor: pointer;
+  padding: 20px;
+}
+
+h4 {
+  margin-bottom: 0;
+}
+
+ul {
+  padding: 40px;
+  padding-top: 20px;
+  text-align: justify;
 }
