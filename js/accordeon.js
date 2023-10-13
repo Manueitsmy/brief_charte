@@ -1,13 +1,5 @@
-function Accordeon() {
-    let list = document.querySelector("li");
-
-    if (list.classList.contains("hideText")) {
-        list.className = "showTime";
-    }
-    else if (list.classList.contains("showTime")) {
-        list.className = "hideText";
-    }
-    else {
-        list.className = "hideText";
+window.addEventListener("load"), () => {
+    for (let i of document.querySelectorAll(".collapse ul")) {
+        
     }
 }
